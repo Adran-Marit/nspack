@@ -1,0 +1,8 @@
+C:\projects\switchbrew\Brew.NET\Brew.NET\bin\Debug\Brew.NET.dll
+C:\projects\switchbrew\Brew.NET\Brew.NET\bin\Debug\Brew.NET.pdb
+C:\projects\switchbrew\Brew.NET\Brew.NET\obj\Debug\Brew.NET.csprojAssemblyReference.cache
+C:\projects\switchbrew\Brew.NET\Brew.NET\obj\Debug\Brew.Properties.Resources.resources
+C:\projects\switchbrew\Brew.NET\Brew.NET\obj\Debug\Brew.NET.csproj.GenerateResource.cache
+C:\projects\switchbrew\Brew.NET\Brew.NET\obj\Debug\Brew.NET.csproj.CoreCompileInputs.cache
+C:\projects\switchbrew\Brew.NET\Brew.NET\obj\Debug\Brew.NET.dll
+C:\projects\switchbrew\Brew.NET\Brew.NET\obj\Debug\Brew.NET.pdb
